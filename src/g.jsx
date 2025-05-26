@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Bell, MapPin, TrendingUp, Users, ShoppingCart, Star, Phone, Mail, Calendar, DollarSign, Package, AlertCircle, Filter, Menu, X, User, Home, BarChart3, MessageCircle, Settings } from 'lucide-react';
 import Dashboard from './dashboard';
-import MarketPrices from './marketPrice';
+import MarketPrices from './marketprice';
 import FindBuyers from './findBuyer';
 import MyListings from './myListings';
 
